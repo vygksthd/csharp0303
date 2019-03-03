@@ -28,7 +28,7 @@ namespace page68_생성자소멸자
         {
             Console.WriteLine(">>> MyClass(int i)");
         }
-        public MyClass(int i, int j) : base(i)
+        public MyClass(int i, int j)
         {
             Console.WriteLine(">>> MyClass(int i, int j)");
         }
