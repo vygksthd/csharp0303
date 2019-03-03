@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Page64_인터페이스", "Page64_인터페이스\Page64_인터페이스.csproj", "{36C8EFBD-4C1B-4F16-ACA9-4786486EADFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36C8EFBD-4C1B-4F16-ACA9-4786486EADFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36C8EFBD-4C1B-4F16-ACA9-4786486EADFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36C8EFBD-4C1B-4F16-ACA9-4786486EADFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36C8EFBD-4C1B-4F16-ACA9-4786486EADFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E87A1AA-D977-4350-B236-27B4EE1F8F95}
+	EndGlobalSection
+EndGlobal
