@@ -16,7 +16,7 @@ namespace Page64_인터페이스
         public string name { get; set; }
         public void work()
         {
-            Console.WriteLine(name + " 일한다.");
+            Console.WriteLine(name  + " 일한다.");
         }
         public void jitda()
         {
